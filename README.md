@@ -162,6 +162,5 @@ ________________________________________
 Özet
 •	3. Bölüm: Fonksiyonlar küçük, tek sorumluluğa sahip ve okunabilir olmalıdır. Çok parametre kullanmaktan, derin iç içe yapılardan ve yan etkilerden kaçınılmalıdır.
 •	4. Bölüm: Kod mümkün olduğunca kendini açıklamalı, gereksiz yorumlardan kaçınılmalı ve yalnızca gerekli durumlarda açıklayıcı yorumlar eklenmelidir.
-Eğer daha fazla detay veya başka bölümlerle devam etmek istersen, yazabilirim!
 
 
